@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 สวัสดีครับ, ผมชื่อ Wongtawee Jantawee</h1>
 
-<!--
-**wongtawee/wongtawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 <b>Fullstack Developer</b> | ❤️ Flutter & Node.js | 🧠 สนใจเทคโนโลยี AI และระบบ Backend ที่แข็งแรง  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 เกี่ยวกับผม
+
+- 🎓 จบวิศวกรรมคอมพิวเตอร์  
+- 🧩 สาย **Fullstack Developer** — เขียนได้ทั้งฝั่ง **Frontend (Flutter)** และ **Backend (Node.js + Express + PostgreSQL)**  
+- 💳 สร้างระบบ **ชำระเงินออนไลน์ด้วย Omise** ในโหมด Test ได้สำเร็จ   
+- 📈 เป้าหมายคือเป็นนักพัฒนาที่เข้าใจทั้งโครงสร้างระบบและประสบการณ์ผู้ใช้  
+
+---
+
+### ⚙️ Tech Stack ที่ใช้ประจำ
+
+#### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,js,html,css" />
+</p>
+
+#### ☁️ Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,windows" />
+</p>
+
+---
+
+### 🌱 โปรเจกต์เด่น
+
+| โปรเจกต์ | เทคโนโลยี | รายละเอียด |
+|-----------|-------------|-------------|
+| 🥬 [FreshFarm](https://github.com/wongtawee/Freshfarm) | Flutter + Node.js + PostgreSQL | ระบบสั่งซื้อผักผลไม้ออนไลน์ พร้อมชำระเงิน Omise (Test Mode) |
+| 🎬 [](https://github.com/wongtawee/QuickMovieX) | React + Node.js + Express | |
+
+---
+
+### 📊 สถิติบน GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wongtawee&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongtawee&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### ☕ คติประจำตัว
+
+> “เขียนโค้ดให้เหมือนเล่าเรื่อง — เข้าใจง่าย ดูแลต่อได้ และมี flow ที่สวยงาม”
+
+---
+
+<p align="center">
+  🌟 หากคุณชอบงานของผม อย่าลืมกด <b>Star</b> ในโปรเจกต์ที่คุณสนใจนะครับ!  
+  <br>💬 ติดต่อพูดคุยหรือร่วมโปรเจกต์ได้เสมอครับ 😄
+</p>
