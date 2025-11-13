@@ -33,7 +33,7 @@
 
 | โปรเจกต์ | เทคโนโลยี | รายละเอียด |
 |-----------|-------------|-------------|
-| 🥬 [FreshFarm](https://github.com/wongtawee/Freshfarm) | Flutter + Node.js + PostgreSQL | ระบบสั่งซื้อผักผลไม้ออนไลน์ พร้อมชำระเงิน Omise (Test Mode) |
+| 🥬 [FreshFarm](https://github.com/wongtawee/Freshfarm) | Flutter + Node.js + Express + PostgreSQL | ระบบสั่งซื้อผักผลไม้ออนไลน์ พร้อมชำระเงิน Omise (Test Mode) |
 | 🎬 [](https://github.com/wongtawee/QuickMovieX) | React + Node.js + Express | |
 
 ---
